@@ -1,12 +1,13 @@
 ---
 layout: article
 title: Getting Started
-descr: A brief introduction on how to use Poole, what it can do for you and what not.
-image: http://farm7.staticflickr.com/6119/6884293596_b44a31bf0a_m.jpg
+descr: "A brief introduction on how to use Poole, what it can do for you and what not."
+image: "http://farm7.staticflickr.com/6119/6884293596_b44a31bf0a_m.jpg"
 author_twitter: _mql
 author: Michael Aufreiter
-categories:
-- articles
+categories: 
+  - articles
+published: true
 ---
 
 Here's how to get started with Poole.
@@ -14,7 +15,7 @@ Here's how to get started with Poole.
 
 Login with your Github User
 -----------------
-
+![](/_posts/articles/johnie-o.png)
 It was challenging, but Poole supports OAuth. I think it's very important to use OAuth over Basic Authentication, since Github data can be very sensible and no one wants to risk getting his password sniffed.
 
 ![Start](http://f.cl.ly/items/0t0A170b2Y093F2u1w45/Screen%20Shot%202012-05-23%20at%205.48.45%20PM.png)
