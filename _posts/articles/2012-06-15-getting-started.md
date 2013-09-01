@@ -11,7 +11,7 @@ published: true
 ---
 
 Here's how to get started with Poole.
-
+fvdfuhvudf
 
 Login with your Github User
 -----------------
@@ -19,7 +19,6 @@ It was challenging, but Poole supports OAuth. I think it's very important to use
 
 ![Start](http://f.cl.ly/items/0t0A170b2Y093F2u1w45/Screen%20Shot%202012-05-23%20at%205.48.45%20PM.png)
 
-![Test](/_posts/articles/johnie-o.png)
 Browse Repositories
 -----------------
 
